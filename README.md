@@ -7,7 +7,7 @@ FNAF Power and control System for ComputerCraft
 
 ### Features:
 * Clickable buttons on a monitor to toggle power-consuming devices.
-* Power drains over time; if it reaches 0, all outputs turn off.
+* Power drains over time; if it reaches 0, all outputs (doors, lights, ventsm, etc) turn off.
 * Redstone outputs for doors, lights, vents, etc.
 * Automatically starts shift at 12pm and resets power and stops consumption at 6 AM.
 
