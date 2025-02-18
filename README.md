@@ -1,4 +1,4 @@
-# Computercraft-FNAF-office-power-and-control-system-script
+# Computercraft FNAF office power and control system script
 FNAF Power and control System for ComputerCraft
 
 ## This script simulates a power management system for FNAF-style Minecraft builds.
@@ -14,7 +14,7 @@ First, you will need computercraft and create mod, You start by placing a comput
 
 ### Setting up in the in-game world
 Place an **Advanced** monitor beside the computer in any direction\
-Turn on the computer. (It should automatically run the script)
+Turn on the computer. (It should automatically run the script)\
 Place redstone links on the sides of the computer **or** you can place a redstone relay in any direction beside the computer and place the redstone links on it instead.
 
 Here are some example setups:
