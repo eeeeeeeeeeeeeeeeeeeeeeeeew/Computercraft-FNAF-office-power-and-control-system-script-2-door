@@ -1,3 +1,5 @@
+![2025-02-18_03 41 27](https://github.com/user-attachments/assets/c6b9bda9-2f9f-47d8-b629-f2e1f108dd0f)
+
 # Computercraft FNAF office power and control system script
 FNAF Power and control System for ComputerCraft
 
