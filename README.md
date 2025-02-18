@@ -12,7 +12,7 @@ FNAF Power and control System for ComputerCraft
 * Automatically starts shift at 12pm and resets power and stops consumption at 6 AM.
 
 #### To use the script:
-First, you will need computercraft and create mod, You start by placing a computer in the world, then put both startup.lua and powersystem.lua in the following folder: (world save folder)/computercraft/computers/(computer id)
+First, you will need computercraft (CC: Tweaked) and create mod, You start by placing a computer in the world, then put both startup.lua and powersystem.lua in the following folder: (world save folder)/computercraft/computers/(computer id)
 
 ### Setting up in the in-game world
 Place an **Advanced** monitor beside the computer in any direction\
