@@ -28,3 +28,5 @@ Open powersystem.lua using notepad or a code editor.\
 Scroll down until you find the edit here area.\
 Code comments should help you edit according to your needs.\
 In the future this will probably be switched to a separate configuration file for more a more user friendly experience and the ability to update the script without having to re-apply your edits.
+
+Resourcepack I used to change the look of computercraft: https://modrinth.com/resourcepack/create-computercraft
